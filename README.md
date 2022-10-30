@@ -5,11 +5,11 @@ Details of IRGAN can be seen in "Visible-to-infrared Image Translation Based on 
 
 #Train
 
-python train.py --dataroot ./datasets/VEDAI --name VEDAI_IRGAN --model IR-GAN --direction BtoA
+python train.py --dataroot ./datasets/VEDAI --name VEDAI_IRGAN --model IRGAN --direction BtoA
 
 #Test
 
-python test.py --dataroot ./datasets/VEDAI --name VEDAI_IRGAN --model IR-GAN --direction BtoA
+python test.py --dataroot ./datasets/VEDAI --name VEDAI_IRGAN --model IRGAN --direction BtoA
 
 #Acknowledgments
 
