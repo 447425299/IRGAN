@@ -1,7 +1,6 @@
 # IRGAN
 
 We  provide PyTorch implementations for IRGAN. 
-Details of IRGAN can be seen in "Visible-to-infrared Image Translation Based on an Improved CGAN"(The Visual Computer,TVCJ).
 
 #Train
 
